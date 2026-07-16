@@ -1,0 +1,14 @@
+# cook your dish here
+def solve():
+    X = int(input())
+    if X == 6:
+        print("YES")
+    else:
+        print("NO")
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
