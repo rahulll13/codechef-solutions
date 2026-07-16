@@ -1,0 +1,13 @@
+# cook your dish here
+import sys
+def solve():
+    X, N = map(int, input().split())
+    X //= 10
+    print(X * N)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
