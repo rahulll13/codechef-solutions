@@ -1,0 +1,13 @@
+# cook your dish here
+import sys
+def solve():
+    if N >= 6 and N <= 8:
+        print("YES")
+    else:
+        print("NO")
+if __name__ == "__main__":
+    try:
+        N = int(input())
+        solve()
+    except (EOFError, ValueError):
+        pass
