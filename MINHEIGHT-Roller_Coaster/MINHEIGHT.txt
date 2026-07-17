@@ -1,0 +1,16 @@
+# cook your dish here
+import sys
+def solve():
+    X, H = map(int, input().split())
+    ## Condition H => minimum Height not the maximum Height
+    if X < H:
+        print("NO")
+    else:
+        print("YES")
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
