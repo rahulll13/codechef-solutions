@@ -16,3 +16,4 @@
 | [IPL Ticket Rush](./IPLTRSH-IPL_Ticket_Rush) | IPLTRSH | PYTH 3 | 500 |
 | [Audible Range](./AUDIBLE-Audible_Range) | AUDIBLE | PYTH 3 | 500 |
 | [Reach on Time](./TIMELY-Reach_on_Time) | TIMELY | PYTH 3 | 500 |
+| [Puzzle Hunt](./PUZHUNT-Puzzle_Hunt) | PUZHUNT | PYTH 3 | 500 |
