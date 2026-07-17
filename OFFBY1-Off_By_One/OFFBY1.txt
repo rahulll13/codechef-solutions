@@ -1,0 +1,12 @@
+# cook your dish here
+import sys
+def solve():
+    res = 0
+    res = (A + B) * 10 + 1
+    print(res)
+if __name__ == "__main__":
+    try:
+        A, B = map(int, input().split())
+        solve()
+    except (EOFError, ValueError):
+        pass
