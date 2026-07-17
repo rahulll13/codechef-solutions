@@ -17,3 +17,4 @@
 | [Audible Range](./AUDIBLE-Audible_Range) | AUDIBLE | PYTH 3 | 500 |
 | [Reach on Time](./TIMELY-Reach_on_Time) | TIMELY | PYTH 3 | 500 |
 | [Puzzle Hunt](./PUZHUNT-Puzzle_Hunt) | PUZHUNT | PYTH 3 | 500 |
+| [Bone Appetit](./BNE_APT-Bone_Appetit) | BNE_APT | PYTH 3 | 500 |
