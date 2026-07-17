@@ -19,3 +19,4 @@
 | [Puzzle Hunt](./PUZHUNT-Puzzle_Hunt) | PUZHUNT | PYTH 3 | 500 |
 | [Bone Appetit](./BNE_APT-Bone_Appetit) | BNE_APT | PYTH 3 | 500 |
 | [Who is taller!](./TALLER-Who_is_taller_) | TALLER | PYTH 3 | 500 |
+| [Reach the Target](./REACHTARGET-Reach_the_Target) | REACHTARGET | PYTH 3 | 500 |
