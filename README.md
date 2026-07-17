@@ -10,3 +10,4 @@
 | [How many unattempted](./PRACLIST-How_many_unattempted) | PRACLIST | PYTH 3 | 500 |
 | [Determine the Score](./DETSCORE-Determine_the_Score) | DETSCORE | PYTH 3 | 500 |
 | [404 Not Found](./ERROR404-404_Not_Found) | ERROR404 | PYTH 3 | 500 |
+| [Off By One](./OFFBY1-Off_By_One) | OFFBY1 | PYTH 3 | 500 |
