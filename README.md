@@ -22,3 +22,4 @@
 | [Reach the Target](./REACHTARGET-Reach_the_Target) | REACHTARGET | PYTH 3 | 500 |
 | [Best of Two](./BESTOFTWO-Best_of_Two) | BESTOFTWO | PYTH 3 | 500 |
 | [2000](./RIP2000-2000) | RIP2000 | PYTH 3 | 500 |
+| [Roller Coaster](./MINHEIGHT-Roller_Coaster) | MINHEIGHT | PYTH 3 | 500 |
