@@ -1,0 +1,17 @@
+# cook your dish here
+## Logic => N must be divisible by 3 so to ensure no fight occurs
+
+import sys
+def solve():
+    N = int(input())
+    if N % 3 == 0:
+        print("YES")
+    else:
+        print("NO")
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, valueError):
+        pass
