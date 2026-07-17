@@ -1,0 +1,13 @@
+# cook your dish here
+import sys
+def solve():
+    if X == 404:
+        print("NOT FOUND")
+    else:
+        print("FOUND")
+if __name__ == "__main__":
+    try:
+        X = int(input())
+        res = solve()
+    except (EOFError, ValueError):
+        pass
