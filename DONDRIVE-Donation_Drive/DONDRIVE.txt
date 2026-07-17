@@ -1,0 +1,12 @@
+# cook your dish her
+import sys
+def solve():
+    N,X = map(int, input().split())
+    print(N - X)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
