@@ -26,3 +26,4 @@
 | [Candy Division](./CANDIVIDE-Candy_Division) | CANDIVIDE | PYTH 3 | 500 |
 | [Chef On Date](./CHEFONDATE-Chef_On_Date) | CHEFONDATE | PYTH 3 | 500 |
 | [Parity](./PAR2-Parity) | PAR2 | PYTH 3 | 500 |
+| [Total Prize Money](./PRIZEPOOL-Total_Prize_Money) | PRIZEPOOL | PYTH 3 | 500 |
