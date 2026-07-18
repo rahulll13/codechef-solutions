@@ -35,3 +35,4 @@
 | [Second Max of Three Numbers](./SNDMAX-Second_Max_of_Three_Numbers) | SNDMAX | PYTH 3 | 500 |
 | [Bull or Bear](./BULLBEAR-Bull_or_Bear) | BULLBEAR | PYTH 3 | 500 |
 | [Four Tickets](./FOURTICKETS-Four_Tickets) | FOURTICKETS | PYTH 3 | 500 |
+| [Chairs Requirement](./CHAIRS_-Chairs_Requirement) | CHAIRS_ | PYTH 3 | 500 |
