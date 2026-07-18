@@ -28,3 +28,4 @@
 | [Parity](./PAR2-Parity) | PAR2 | PYTH 3 | 500 |
 | [Total Prize Money](./PRIZEPOOL-Total_Prize_Money) | PRIZEPOOL | PYTH 3 | 500 |
 | [Counting Words](./CNTWRD-Counting_Words) | CNTWRD | PYTH 3 | 500 |
+| [Battery Health](./BTRYHLTH-Battery_Health) | BTRYHLTH | PYTH 3 | 500 |
