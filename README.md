@@ -33,3 +33,4 @@
 | [Ageing](./AGEING-Ageing) | AGEING | PYTH 3 | 500 |
 | [Right There](./RIGHTTHERE-Right_There) | RIGHTTHERE | PYTH 3 | 500 |
 | [Second Max of Three Numbers](./SNDMAX-Second_Max_of_Three_Numbers) | SNDMAX | PYTH 3 | 500 |
+| [Bull or Bear](./BULLBEAR-Bull_or_Bear) | BULLBEAR | PYTH 3 | 500 |
