@@ -29,3 +29,4 @@
 | [Total Prize Money](./PRIZEPOOL-Total_Prize_Money) | PRIZEPOOL | PYTH 3 | 500 |
 | [Counting Words](./CNTWRD-Counting_Words) | CNTWRD | PYTH 3 | 500 |
 | [Battery Health](./BTRYHLTH-Battery_Health) | BTRYHLTH | PYTH 3 | 500 |
+| [Tom and Jerry Chase](./JERRYCHASE-Tom_and_Jerry_Chase) | JERRYCHASE | PYTH 3 | 500 |
