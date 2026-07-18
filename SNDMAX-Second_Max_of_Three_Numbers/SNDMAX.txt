@@ -1,0 +1,18 @@
+# cook your dish here
+import sys
+def solve():
+    X,Y,Z = map(int, input().split())
+    
+    maxx = max(X,Y,Z)
+    minn = min(X,Y,Z)
+    res = (X + Y + Z) - (maxx + minn)
+    
+    print(res)
+    
+if __name__ == "__main__":
+    try:
+        N = int(input())
+        for _ in range(N):
+            solve()
+    except (EOFError, ValueError):
+        pass
