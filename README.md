@@ -50,3 +50,4 @@
 | [Chess Time](./CHESSTIME-Chess_Time) | CHESSTIME | PYTH 3 | 500 |
 | [Passes for Fair](./FAIRPASS-Passes_for_Fair) | FAIRPASS | PYTH 3 | 500 |
 | [Read Pages](./READPAGES-Read_Pages) | READPAGES | PYTH 3 | 500 |
+| [Couple Game](./COUGAME-Couple_Game) | COUGAME | PYTH 3 | 500 |
