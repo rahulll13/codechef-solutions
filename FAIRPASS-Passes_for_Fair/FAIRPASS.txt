@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    
+    N,K = map(int, input().split())
+    
+    ## +1 Denotes for the chef himself
+    if N + 1 <= K :
+        print("YES")
+    else: 
+        print("NO")
+
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
