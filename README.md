@@ -53,3 +53,4 @@
 | [Couple Game](./COUGAME-Couple_Game) | COUGAME | PYTH 3 | 500 |
 | [Air Quality Index](./AIRINDEX-Air_Quality_Index) | AIRINDEX | PYTH 3 | 500 |
 | [Fever](./FEVER-Fever) | FEVER | PYTH 3 | 500 |
+| [Sleep deprivation](./SLEEP-Sleep_deprivation) | SLEEP | PYTH 3 | 500 |
