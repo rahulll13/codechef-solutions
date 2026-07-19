@@ -47,3 +47,4 @@
 | [Rain in Chefland](./RAINFALL1-Rain_in_Chefland) | RAINFALL1 | PYTH 3 | 500 |
 | [Bidding](./AUCTION-Bidding) | AUCTION | PYTH 3 | 500 |
 | [Overspeeding Fine](./FINE-Overspeeding_Fine) | FINE | PYTH 3 | 500 |
+| [Chess Time](./CHESSTIME-Chess_Time) | CHESSTIME | PYTH 3 | 500 |
