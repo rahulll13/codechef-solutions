@@ -61,3 +61,4 @@
 | [Good Investment or Not](./INVESTMENT-Good_Investment_or_Not) | INVESTMENT | PYTH 3 | 500 |
 | [Final Population](./POPULATION-Final_Population) | POPULATION | PYTH 3 | 500 |
 | [Chef gives Party](./PARTY2-Chef_gives_Party) | PARTY2 | PYTH 3 | 500 |
+| [Time Complexity](./COMPLEXITY-Time_Complexity) | COMPLEXITY | PYTH 3 | 500 |
