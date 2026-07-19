@@ -44,3 +44,4 @@
 | [October Marathon](./OCTATHON-October_Marathon) | OCTATHON | PYTH 3 | 500 |
 | [Just One More Episode](./ONEMORE-Just_One_More_Episode) | ONEMORE | PYTH 3 | 500 |
 | [Mana Points](./MANAPTS-Mana_Points) | MANAPTS | PYTH 3 | 500 |
+| [Rain in Chefland](./RAINFALL1-Rain_in_Chefland) | RAINFALL1 | PYTH 3 | 500 |
