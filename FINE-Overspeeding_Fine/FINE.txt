@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    X = int(input())
+    
+    if X <= 70:
+        print("0")
+    elif X > 70 and X <= 100:
+        print("500")
+    else:
+        print("2000")
+
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
