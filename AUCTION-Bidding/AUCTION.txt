@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    A,B,C = map(int, input().split())
+    
+    if A > B and A > C:
+        print("Alice")
+    elif B > A and B > C:
+        print("Bob")
+    else:
+        print("Charlie")
+
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
