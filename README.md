@@ -36,3 +36,4 @@
 | [Bull or Bear](./BULLBEAR-Bull_or_Bear) | BULLBEAR | PYTH 3 | 500 |
 | [Four Tickets](./FOURTICKETS-Four_Tickets) | FOURTICKETS | PYTH 3 | 500 |
 | [Chairs Requirement](./CHAIRS_-Chairs_Requirement) | CHAIRS_ | PYTH 3 | 500 |
+| [Chef and Donation](./DNATION-Chef_and_Donation) | DNATION | PYTH 3 | 500 |
