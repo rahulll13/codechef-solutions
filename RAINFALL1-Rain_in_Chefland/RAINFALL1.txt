@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    X = int(input())
+    
+    if X < 3:
+        print("LIGHT")
+    elif X >= 3 and X < 7:
+        print("MODERATE")
+    else:
+        print("HEAVY")
+
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
