@@ -1,0 +1,17 @@
+# cook your dish here
+import sys
+def solve():
+    
+    if ((A * 2) + (B * 1)) > ((X * 2) + (Y * 1)):
+        print("Messi")
+    elif ((A * 2) + (B * 1)) == ((X * 2) + (Y * 1)):
+        print("Equal")
+    else:
+        print("Ronaldo")
+    
+if __name__ == "__main__":
+    try:
+        A,B,X,Y = map(int, input().split())
+        solve()
+    except (EOFError, ValueError):
+        pass
