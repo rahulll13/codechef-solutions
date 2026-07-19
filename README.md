@@ -56,3 +56,4 @@
 | [Sleep deprivation](./SLEEP-Sleep_deprivation) | SLEEP | PYTH 3 | 500 |
 | [MATH1 Enrolment](./M1ENROL-MATH1_Enrolment) | M1ENROL | PYTH 3 | 500 |
 | [Chef and Chapters](./SEMCOURSES-Chef_and_Chapters) | SEMCOURSES | PYTH 3 | 500 |
+| [Water Requirement](./WATERREQ-Water_Requirement) | WATERREQ | PYTH 3 | 500 |
