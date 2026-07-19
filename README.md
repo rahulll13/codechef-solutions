@@ -43,3 +43,4 @@
 | [Waiting Time](./WAITTIME-Waiting_Time) | WAITTIME | PYTH 3 | 500 |
 | [October Marathon](./OCTATHON-October_Marathon) | OCTATHON | PYTH 3 | 500 |
 | [Just One More Episode](./ONEMORE-Just_One_More_Episode) | ONEMORE | PYTH 3 | 500 |
+| [Mana Points](./MANAPTS-Mana_Points) | MANAPTS | PYTH 3 | 500 |
