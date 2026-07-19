@@ -39,3 +39,4 @@
 | [Chef and Donation](./DNATION-Chef_and_Donation) | DNATION | PYTH 3 | 500 |
 | [Sum it](./SUMM-Sum_it) | SUMM | PYTH 3 | 500 |
 | [Get Subscription](./SUBSCRIBE-Get_Subscription) | SUBSCRIBE | PYTH 3 | 500 |
+| [Messi vs Ronaldo](./MVR-Messi_vs_Ronaldo) | MVR | PYTH 3 | 500 |
