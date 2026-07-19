@@ -41,3 +41,4 @@
 | [Get Subscription](./SUBSCRIBE-Get_Subscription) | SUBSCRIBE | PYTH 3 | 500 |
 | [Messi vs Ronaldo](./MVR-Messi_vs_Ronaldo) | MVR | PYTH 3 | 500 |
 | [Waiting Time](./WAITTIME-Waiting_Time) | WAITTIME | PYTH 3 | 500 |
+| [October Marathon](./OCTATHON-October_Marathon) | OCTATHON | PYTH 3 | 500 |
