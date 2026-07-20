@@ -71,3 +71,4 @@
 | [Spice Level](./KITCHENSPICE-Spice_Level) | KITCHENSPICE | PYTH 3 | 500 |
 | [The Gift](./CS2023_GIFT-The_Gift) | CS2023_GIFT | PYTH 3 | 500 |
 | [Reach Home](./REACH_HOME-Reach_Home) | REACH_HOME | PYTH 3 | 500 |
+| [Donation Rewards](./DOREWARD-Donation_Rewards) | DOREWARD | PYTH 3 | 500 |
