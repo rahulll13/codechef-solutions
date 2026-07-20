@@ -1,0 +1,20 @@
+import sys
+def solve():
+    
+    X = int(input())
+    
+    if X <= 3:
+        print("BRONZE")
+    elif X > 3 and X <= 6:
+        print("SILVER")
+    else:
+        print("GOLD")
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
+            
