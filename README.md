@@ -63,3 +63,4 @@
 | [Chef gives Party](./PARTY2-Chef_gives_Party) | PARTY2 | PYTH 3 | 500 |
 | [Time Complexity](./COMPLEXITY-Time_Complexity) | COMPLEXITY | PYTH 3 | 500 |
 | [Interior Design](./INTRDSGN-Interior_Design) | INTRDSGN | PYTH 3 | 500 |
+| [Car Trip](./CARTRIP-Car_Trip) | CARTRIP | PYTH 3 | 500 |
