@@ -67,3 +67,4 @@
 | [Multivitamin Tablets](./TABLETS-Multivitamin_Tablets) | TABLETS | PYTH 3 | 500 |
 | [Six Friends](./SIXFRIENDS-Six_Friends) | SIXFRIENDS | PYTH 3 | 500 |
 | [Chef and Wire Frames](./CWIREFRAME-Chef_and_Wire_Frames) | CWIREFRAME | PYTH 3 | 500 |
+| [Minimum Coins](./MINCOINSREQ-Minimum_Coins) | MINCOINSREQ | PYTH 3 | 500 |
