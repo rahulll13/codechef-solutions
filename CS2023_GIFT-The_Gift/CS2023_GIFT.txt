@@ -1,0 +1,16 @@
+# cook your dish here
+import sys
+def solve():
+    X,N,M = map(int, input().split())
+    
+    if X + M >= N:
+        print("YES")
+    else:
+        print("NO")
+    
+    
+if __name__ == "__main__":
+    try:
+        solve()
+    except (EOFError, ValueError):
+        pass
