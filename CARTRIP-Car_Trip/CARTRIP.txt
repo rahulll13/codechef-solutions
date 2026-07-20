@@ -1,0 +1,17 @@
+# cook your dish here
+import sys
+def solve():
+    X = int(input())
+    
+    if X <= 300:
+        print("3000")
+    else:
+        print(X * 10 )
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
