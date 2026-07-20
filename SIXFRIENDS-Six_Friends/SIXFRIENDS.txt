@@ -1,0 +1,18 @@
+# cook your dish here
+import sys
+def solve():
+    
+    X,Y = map(int, input().split())
+    
+    if (X * 3) < (Y * 2):
+        print(X * 3)
+    else:
+        print(Y * 2)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
