@@ -64,3 +64,4 @@
 | [Time Complexity](./COMPLEXITY-Time_Complexity) | COMPLEXITY | PYTH 3 | 500 |
 | [Interior Design](./INTRDSGN-Interior_Design) | INTRDSGN | PYTH 3 | 500 |
 | [Car Trip](./CARTRIP-Car_Trip) | CARTRIP | PYTH 3 | 500 |
+| [Multivitamin Tablets](./TABLETS-Multivitamin_Tablets) | TABLETS | PYTH 3 | 500 |
