@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    X,Y = map(int, input().split())
+    
+    if X < Y :
+        print("FIRST")
+    elif X > Y:
+        print("SECOND")
+    else:
+        print("ANY")
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError,ValueError):
+        pass
