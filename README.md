@@ -74,3 +74,4 @@
 | [Donation Rewards](./DOREWARD-Donation_Rewards) | DOREWARD | PYTH 3 | 500 |
 | [True and False Paper](./TFPAPER-True_and_False_Paper) | TFPAPER | PYTH 3 | 500 |
 | [The Cheaper Cab](./CABS-The_Cheaper_Cab) | CABS | PYTH 3 | 500 |
+| [Discount](./DISCNT-Discount) | DISCNT | PYTH 3 | 500 |
