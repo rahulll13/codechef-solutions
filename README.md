@@ -77,3 +77,4 @@
 | [Discount](./DISCNT-Discount) | DISCNT | PYTH 3 | 500 |
 | [Height of Rationals](./HEIGHTRATION-Height_of_Rationals) | HEIGHTRATION | PYTH 3 | 500 |
 | [Instagram](./INSTAGRAM-Instagram) | INSTAGRAM | PYTH 3 | 500 |
+| [Volume Control](./VOLCONTROL-Volume_Control) | VOLCONTROL | PYTH 3 | 500 |
