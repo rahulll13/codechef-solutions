@@ -1,0 +1,18 @@
+# cook your dish here
+import sys
+def solve():
+    
+    X,Y = map(int, input().split())
+
+    Cost_price = X - Y    
+    new_increment_in_sp = (X // 10)
+    new_profit = Y + new_increment_in_sp
+    print(new_profit)
+
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
