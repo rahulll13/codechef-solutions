@@ -1,0 +1,21 @@
+# cook your dish here
+## DISCOUNT = d% OF SP
+## AMOUNT = SP - D
+import sys
+def solve():
+    
+    X = int(input())
+    
+    Dis = (X * 100) // 100
+    
+    amount = 100 - Dis
+    
+    print(amount)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
