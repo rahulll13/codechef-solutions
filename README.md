@@ -75,3 +75,4 @@
 | [True and False Paper](./TFPAPER-True_and_False_Paper) | TFPAPER | PYTH 3 | 500 |
 | [The Cheaper Cab](./CABS-The_Cheaper_Cab) | CABS | PYTH 3 | 500 |
 | [Discount](./DISCNT-Discount) | DISCNT | PYTH 3 | 500 |
+| [Height of Rationals](./HEIGHTRATION-Height_of_Rationals) | HEIGHTRATION | PYTH 3 | 500 |
