@@ -80,3 +80,4 @@
 | [Volume Control](./VOLCONTROL-Volume_Control) | VOLCONTROL | PYTH 3 | 500 |
 | [Is it hot or cold](./HOTCOLD-Is_it_hot_or_cold) | HOTCOLD | PYTH 3 | 500 |
 | [Profit Increment](./PROINC-Profit_Increment) | PROINC | PYTH 3 | 500 |
+| [Fill the Bucket](./FBC-Fill_the_Bucket) | FBC | PYTH 3 | 500 |
