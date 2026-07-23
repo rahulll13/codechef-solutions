@@ -93,3 +93,4 @@
 | [Sum of Digits](./FLOW006-Sum_of_Digits) | FLOW006 | PYTH 3 | 500 |
 | [Monthly Budget](./BUDGET_-Monthly_Budget) | BUDGET_ | PYTH 3 | 500 |
 | [Credit score](./CREDSCORE-Credit_score) | CREDSCORE | PYTH 3 | 500 |
+| [First and Last Digit](./FLOW004-First_and_Last_Digit) | FLOW004 | PYTH 3 | 500 |
