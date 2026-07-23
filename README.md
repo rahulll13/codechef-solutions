@@ -96,3 +96,4 @@
 | [First and Last Digit](./FLOW004-First_and_Last_Digit) | FLOW004 | PYTH 3 | 500 |
 | [Enormous Input Test](./INTEST-Enormous_Input_Test) | INTEST | PYTH 3 | 500 |
 | [Practice makes us perfect](./PRACTICEPERF-Practice_makes_us_perfect) | PRACTICEPERF | PYTH 3 | 500 |
+| [Pending Assignments](./ASSIGNMNT-Pending_Assignments) | ASSIGNMNT | PYTH 3 | 500 |
