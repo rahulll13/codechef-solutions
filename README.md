@@ -107,3 +107,4 @@
 | [Monopoly in Chefland](./MONOPOLY-Monopoly_in_Chefland) | MONOPOLY | PYTH 3 | 500 |
 | [Bucket and Water Flow](./WATERFLOW-Bucket_and_Water_Flow) | WATERFLOW | PYTH 3 | 500 |
 | [Miami GP](./F1RULE-Miami_GP) | F1RULE | PYTH 3 | 500 |
+| [Dominant Army](./DOMINANT-Dominant_Army) | DOMINANT | PYTH 3 | 500 |
