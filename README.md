@@ -89,3 +89,4 @@
 | [Maximum Submissions](./MAXIMUMSUBS-Maximum_Submissions) | MAXIMUMSUBS | PYTH 3 | 500 |
 | [TV Discount](./TVDISC-TV_Discount) | TVDISC | PYTH 3 | 500 |
 | [Broken Phone](./BROKENPHONE-Broken_Phone) | BROKENPHONE | PYTH 3 | 500 |
+| [Tyre](./TYRE-Tyre) | TYRE | PYTH 3 | 500 |
