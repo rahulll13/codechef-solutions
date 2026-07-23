@@ -101,3 +101,4 @@
 | [Insurance](./INSURANCE-Insurance) | INSURANCE | PYTH 3 | 500 |
 | [Codechef Airlines](./AIRLINES-Codechef_Airlines) | AIRLINES | PYTH 3 | 500 |
 | [Increase IQ](./INCRIQ-Increase_IQ) | INCRIQ | PYTH 3 | 500 |
+| [Battery Low](./BATTERYLOW-Battery_Low) | BATTERYLOW | PYTH 3 | 500 |
