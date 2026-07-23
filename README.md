@@ -111,3 +111,4 @@
 | [Playlist](./SONGS-Playlist) | SONGS | PYTH 3 | 500 |
 | [Chef and Chocolates](./CHEFCHOCO-Chef_and_Chocolates) | CHEFCHOCO | PYTH 3 | 500 |
 | [Netflix](./NETFLIX-Netflix) | NETFLIX | PYTH 3 | 500 |
+| [Chef and Gym](./CGYM-Chef_and_Gym) | CGYM | PYTH 3 | 500 |
