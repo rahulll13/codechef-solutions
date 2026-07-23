@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    W, X, Y, Z = map(int, input().split())
+    
+    if W + Y * Z > X:
+        print("OVERFLOW")
+    elif  W + Y * Z == X:
+        print("FILLED")
+    else:
+        print("UNFILLED")
+        
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
