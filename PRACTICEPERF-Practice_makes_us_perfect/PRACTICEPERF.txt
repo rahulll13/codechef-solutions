@@ -1,0 +1,17 @@
+# cook your dish here
+import sys
+def solve():
+    
+    weeks = list(map(int, input().split()))
+    ans = 0
+    for truee in weeks:
+        if truee >= 10:
+            ans += 1 
+    
+    print(ans)
+    
+if __name__ == "__main__":
+    try:
+        solve()
+    except(EOFError, ValueError):
+        pass
