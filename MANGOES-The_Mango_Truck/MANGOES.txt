@@ -1,0 +1,16 @@
+# cook your dish here
+import sys
+def solve():
+    
+    X,Y,Z = map(int, input().split())
+    
+    ans = (Z - Y) // X
+    print(ans)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
