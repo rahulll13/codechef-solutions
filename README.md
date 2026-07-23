@@ -86,3 +86,4 @@
 | [Ezio and Guards](./MANIPULATE-Ezio_and_Guards) | MANIPULATE | PYTH 3 | 500 |
 | [Chef and Masks](./CMASKS-Chef_and_Masks) | CMASKS | PYTH 3 | 500 |
 | [Speciality](./SPECIALITY-Speciality) | SPECIALITY | PYTH 3 | 500 |
+| [Maximum Submissions](./MAXIMUMSUBS-Maximum_Submissions) | MAXIMUMSUBS | PYTH 3 | 500 |
