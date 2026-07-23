@@ -103,3 +103,4 @@
 | [Increase IQ](./INCRIQ-Increase_IQ) | INCRIQ | PYTH 3 | 500 |
 | [Battery Low](./BATTERYLOW-Battery_Low) | BATTERYLOW | PYTH 3 | 500 |
 | [Bob at the Bank](./BOBBANK-Bob_at_the_Bank) | BOBBANK | PYTH 3 | 500 |
+| [The Mango Truck](./MANGOES-The_Mango_Truck) | MANGOES | PYTH 3 | 500 |
