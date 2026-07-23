@@ -1,0 +1,24 @@
+# cook your dish here
+import sys
+def solve():
+    
+    query = input().split()
+    
+    X = int(query[0])
+    Y = int(query[1])
+    
+    if X * 100 < Y * 10:
+        print("Disposable")
+    elif X * 100 == Y * 10:
+        print("cloth")
+    else:
+        print("cloth")
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
+            
