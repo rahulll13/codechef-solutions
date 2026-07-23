@@ -102,3 +102,4 @@
 | [Codechef Airlines](./AIRLINES-Codechef_Airlines) | AIRLINES | PYTH 3 | 500 |
 | [Increase IQ](./INCRIQ-Increase_IQ) | INCRIQ | PYTH 3 | 500 |
 | [Battery Low](./BATTERYLOW-Battery_Low) | BATTERYLOW | PYTH 3 | 500 |
+| [Bob at the Bank](./BOBBANK-Bob_at_the_Bank) | BOBBANK | PYTH 3 | 500 |
