@@ -83,3 +83,4 @@
 | [Fill the Bucket](./FBC-Fill_the_Bucket) | FBC | PYTH 3 | 500 |
 | [Parliament](./PARLIAMENT-Parliament) | PARLIAMENT | PYTH 3 | 500 |
 | [Find Remainder](./FLOW002-Find_Remainder) | FLOW002 | PYTH 3 | 500 |
+| [Ezio and Guards](./MANIPULATE-Ezio_and_Guards) | MANIPULATE | PYTH 3 | 500 |
