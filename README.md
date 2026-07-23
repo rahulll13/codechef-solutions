@@ -97,3 +97,4 @@
 | [Enormous Input Test](./INTEST-Enormous_Input_Test) | INTEST | PYTH 3 | 500 |
 | [Practice makes us perfect](./PRACTICEPERF-Practice_makes_us_perfect) | PRACTICEPERF | PYTH 3 | 500 |
 | [Pending Assignments](./ASSIGNMNT-Pending_Assignments) | ASSIGNMNT | PYTH 3 | 500 |
+| [Course Registration](./COURSEREG-Course_Registration) | COURSEREG | PYTH 3 | 500 |
