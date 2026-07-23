@@ -91,3 +91,4 @@
 | [Broken Phone](./BROKENPHONE-Broken_Phone) | BROKENPHONE | PYTH 3 | 500 |
 | [Tyre](./TYRE-Tyre) | TYRE | PYTH 3 | 500 |
 | [Sum of Digits](./FLOW006-Sum_of_Digits) | FLOW006 | PYTH 3 | 500 |
+| [Monthly Budget](./BUDGET_-Monthly_Budget) | BUDGET_ | PYTH 3 | 500 |
