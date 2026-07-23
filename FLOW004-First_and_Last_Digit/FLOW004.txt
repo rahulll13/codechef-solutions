@@ -1,0 +1,18 @@
+# cook your dish here
+import sys
+def solve():
+    ## Reading N
+    N = input().strip()
+    # Getting the first and the last digit 
+    first_num = int(N[0])
+    last_num = int(N[-1])
+    
+    print(first_num + last_num)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
