@@ -1,0 +1,20 @@
+# cook your dish here
+import sys
+def solve():
+    X = int(input())
+    
+    dis_1 = int((X * 0.10))
+    dis_2 = 100
+    
+    if dis_1 > dis_2:
+        print(dis_1)
+    else:
+        print(dis_2)
+        
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
