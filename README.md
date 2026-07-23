@@ -85,3 +85,4 @@
 | [Find Remainder](./FLOW002-Find_Remainder) | FLOW002 | PYTH 3 | 500 |
 | [Ezio and Guards](./MANIPULATE-Ezio_and_Guards) | MANIPULATE | PYTH 3 | 500 |
 | [Chef and Masks](./CMASKS-Chef_and_Masks) | CMASKS | PYTH 3 | 500 |
+| [Speciality](./SPECIALITY-Speciality) | SPECIALITY | PYTH 3 | 500 |
