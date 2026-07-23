@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    ##Inputs are taken here
+    X,Y,Z = map(int, input().split())
+    ## Condition is given here
+    if X > Y and X > Z:
+        print("Setter")
+    elif Y > X and Y > Z:
+        print("Tester")
+    else:
+        print("Editorialist")
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
