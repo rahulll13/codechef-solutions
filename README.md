@@ -100,3 +100,4 @@
 | [Course Registration](./COURSEREG-Course_Registration) | COURSEREG | PYTH 3 | 500 |
 | [Insurance](./INSURANCE-Insurance) | INSURANCE | PYTH 3 | 500 |
 | [Codechef Airlines](./AIRLINES-Codechef_Airlines) | AIRLINES | PYTH 3 | 500 |
+| [Increase IQ](./INCRIQ-Increase_IQ) | INCRIQ | PYTH 3 | 500 |
