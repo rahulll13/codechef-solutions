@@ -119,3 +119,4 @@
 | [Exams](./EXAMCHEF-Exams) | EXAMCHEF | PYTH 3 | N/A |
 | [Chef in his Office](./OFFICE-Chef_in_his_Office) | OFFICE | PYTH 3 | N/A |
 | [Mahasena](./AMR15A-Mahasena) | AMR15A | PYTH 3 | N/A |
+| [CRED Coins](./CREDCOINS-CRED_Coins) | CREDCOINS | PYTH 3 | N/A |
