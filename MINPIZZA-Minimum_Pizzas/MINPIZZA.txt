@@ -1,0 +1,18 @@
+# cook your dish here
+import sys, math
+def solve():
+    N, X = map(int, input().split())
+    
+    piza_needed = N * X  
+    
+    res = (piza_needed + 3) // 4
+    
+    print(res)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
