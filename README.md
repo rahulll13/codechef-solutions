@@ -114,3 +114,4 @@
 | [Chef and Gym](./CGYM-Chef_and_Gym) | CGYM | PYTH 3 | 500 |
 | [Best Coupon](./CHEAPFOOD-Best_Coupon) | CHEAPFOOD | PYTH 3 | 500 |
 | [Greater Average](./AVGPROBLEM-Greater_Average) | AVGPROBLEM | PYTH 3 | N/A |
+| [Subscriptions](./SUBSCRIBE_-Subscriptions) | SUBSCRIBE_ | PYTH 3 | N/A |
