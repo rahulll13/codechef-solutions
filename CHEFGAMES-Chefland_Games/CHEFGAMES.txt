@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    R1,R2,R3,R4 = map(int, input().split())
+    
+    
+    if R1 == R2 == R3 == R4 == 0:
+        print("IN")
+    else:
+        print("OUT")
+    
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
