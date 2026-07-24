@@ -122,3 +122,4 @@
 | [CRED Coins](./CREDCOINS-CRED_Coins) | CREDCOINS | PYTH 3 | N/A |
 | [Water Filling](./WATERFILLING-Water_Filling) | WATERFILLING | PYTH 3 | N/A |
 | [Sale Season](./SALESEASON-Sale_Season) | SALESEASON | PYTH 3 | N/A |
+| [Minimum Pizzas](./MINPIZZA-Minimum_Pizzas) | MINPIZZA | PYTH 3 | N/A |
