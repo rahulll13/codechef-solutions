@@ -121,3 +121,4 @@
 | [Mahasena](./AMR15A-Mahasena) | AMR15A | PYTH 3 | N/A |
 | [CRED Coins](./CREDCOINS-CRED_Coins) | CREDCOINS | PYTH 3 | N/A |
 | [Water Filling](./WATERFILLING-Water_Filling) | WATERFILLING | PYTH 3 | N/A |
+| [Sale Season](./SALESEASON-Sale_Season) | SALESEASON | PYTH 3 | N/A |
