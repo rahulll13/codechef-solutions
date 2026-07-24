@@ -123,3 +123,4 @@
 | [Water Filling](./WATERFILLING-Water_Filling) | WATERFILLING | PYTH 3 | N/A |
 | [Sale Season](./SALESEASON-Sale_Season) | SALESEASON | PYTH 3 | N/A |
 | [Minimum Pizzas](./MINPIZZA-Minimum_Pizzas) | MINPIZZA | PYTH 3 | N/A |
+| [Chefland Games](./CHEFGAMES-Chefland_Games) | CHEFGAMES | PYTH 3 | N/A |
