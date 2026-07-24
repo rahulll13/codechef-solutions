@@ -125,3 +125,4 @@
 | [Minimum Pizzas](./MINPIZZA-Minimum_Pizzas) | MINPIZZA | PYTH 3 | N/A |
 | [Chefland Games](./CHEFGAMES-Chefland_Games) | CHEFGAMES | PYTH 3 | N/A |
 | [Expert Setter](./EXPERT-Expert_Setter) | EXPERT | PYTH 3 | N/A |
+| [Chef and NextGen](./HELIUM3-Chef_and_NextGen) | HELIUM3 | PYTH 3 | N/A |
