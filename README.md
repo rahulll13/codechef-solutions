@@ -115,3 +115,4 @@
 | [Best Coupon](./CHEAPFOOD-Best_Coupon) | CHEAPFOOD | PYTH 3 | 500 |
 | [Greater Average](./AVGPROBLEM-Greater_Average) | AVGPROBLEM | PYTH 3 | N/A |
 | [Subscriptions](./SUBSCRIBE_-Subscriptions) | SUBSCRIBE_ | PYTH 3 | N/A |
+| [Janmansh and Assignments](./JASSIGNMENTS-Janmansh_and_Assignments) | JASSIGNMENTS | PYTH 3 | N/A |
