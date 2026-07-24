@@ -116,3 +116,4 @@
 | [Greater Average](./AVGPROBLEM-Greater_Average) | AVGPROBLEM | PYTH 3 | N/A |
 | [Subscriptions](./SUBSCRIBE_-Subscriptions) | SUBSCRIBE_ | PYTH 3 | N/A |
 | [Janmansh and Assignments](./JASSIGNMENTS-Janmansh_and_Assignments) | JASSIGNMENTS | PYTH 3 | N/A |
+| [Exams](./EXAMCHEF-Exams) | EXAMCHEF | PYTH 3 | N/A |
