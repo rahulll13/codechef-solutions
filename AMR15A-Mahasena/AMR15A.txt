@@ -1,0 +1,25 @@
+import sys
+def solve():
+    n = len(weapons)
+    
+    even_count = 0
+    odd_count = 0
+    
+    for w in weapons:
+        if w % 2 == 0:
+            even_count += 1
+    
+    odd_count = n - even_count
+            
+    if even_count > odd_count:
+        print("READY FOR BATTLE")
+    else:
+        print("NOT READY")
+        
+if __name__ == "__main__":
+    try:
+        N = int(input())
+        weapons = list(map(int, input().split()))
+        solve()
+    except(EOFError, ValueError):
+        pass
