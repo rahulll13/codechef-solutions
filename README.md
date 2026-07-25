@@ -127,3 +127,4 @@
 | [Expert Setter](./EXPERT-Expert_Setter) | EXPERT | PYTH 3 | N/A |
 | [Chef and NextGen](./HELIUM3-Chef_and_NextGen) | HELIUM3 | PYTH 3 | N/A |
 | [Sugarcane Juice Business](./SUGARCANE-Sugarcane_Juice_Business) | SUGARCANE | PYTH 3 | N/A |
+| [Count the Notebooks](./NOTEBOOK-Count_the_Notebooks) | NOTEBOOK | PYTH 3 | N/A |
