@@ -129,3 +129,4 @@
 | [Sugarcane Juice Business](./SUGARCANE-Sugarcane_Juice_Business) | SUGARCANE | PYTH 3 | N/A |
 | [Count the Notebooks](./NOTEBOOK-Count_the_Notebooks) | NOTEBOOK | PYTH 3 | N/A |
 | [Chef and Candies](./CHEFCAND-Chef_and_Candies) | CHEFCAND | PYTH 3 | N/A |
+| [Car or Bike](./TRAVELFAST-Car_or_Bike) | TRAVELFAST | PYTH 3 | N/A |
