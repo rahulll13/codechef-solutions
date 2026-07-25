@@ -1,0 +1,20 @@
+# cook your dish here
+import sys, math
+def solve():
+    N,X = map(int, input().split())
+    
+    if N < X :
+        print("0")
+    else:
+        # Calculate remaining candies needed and divide by 4, rounding up
+        remaining_candies = N - X
+        packets = math.ceil(remaining_candies / 4)
+        print(packets)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
