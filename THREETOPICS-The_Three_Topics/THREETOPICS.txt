@@ -1,0 +1,15 @@
+# cook your dish here
+import sys
+def solve():
+    
+    if X == A or X == B or X == C:
+        print("YES")
+    else:
+        print("NO")
+        
+if __name__ == "__main__":
+    try:
+        A,B,C,X = map(int, input().split())
+        solve()
+    except(EOFError,ValueError):
+        pass
