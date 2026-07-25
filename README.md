@@ -128,3 +128,4 @@
 | [Chef and NextGen](./HELIUM3-Chef_and_NextGen) | HELIUM3 | PYTH 3 | N/A |
 | [Sugarcane Juice Business](./SUGARCANE-Sugarcane_Juice_Business) | SUGARCANE | PYTH 3 | N/A |
 | [Count the Notebooks](./NOTEBOOK-Count_the_Notebooks) | NOTEBOOK | PYTH 3 | N/A |
+| [Chef and Candies](./CHEFCAND-Chef_and_Candies) | CHEFCAND | PYTH 3 | N/A |
