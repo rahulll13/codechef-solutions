@@ -132,3 +132,4 @@
 | [Car or Bike](./TRAVELFAST-Car_or_Bike) | TRAVELFAST | PYTH 3 | N/A |
 | [Is the Score Consistent](./TRUESCORE-Is_the_Score_Consistent) | TRUESCORE | PYTH 3 | N/A |
 | [The Three Topics](./THREETOPICS-The_Three_Topics) | THREETOPICS | PYTH 3 | N/A |
+| [Monopoly](./MONOPOLY2-Monopoly) | MONOPOLY2 | PYTH 3 | N/A |
