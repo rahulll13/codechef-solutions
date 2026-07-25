@@ -130,3 +130,4 @@
 | [Count the Notebooks](./NOTEBOOK-Count_the_Notebooks) | NOTEBOOK | PYTH 3 | N/A |
 | [Chef and Candies](./CHEFCAND-Chef_and_Candies) | CHEFCAND | PYTH 3 | N/A |
 | [Car or Bike](./TRAVELFAST-Car_or_Bike) | TRAVELFAST | PYTH 3 | N/A |
+| [Is the Score Consistent](./TRUESCORE-Is_the_Score_Consistent) | TRUESCORE | PYTH 3 | N/A |
