@@ -135,3 +135,4 @@
 | [Monopoly](./MONOPOLY2-Monopoly) | MONOPOLY2 | PYTH 3 | N/A |
 | [Problems in your to-do list](./TODOLIST-Problems_in_your_to_do_list) | TODOLIST | PYTH 3 | N/A |
 | [Air Conditioner Temperature](./ACTEMP-Air_Conditioner_Temperature) | ACTEMP | PYTH 3 | N/A |
+| [Nearest Exit](./NEARESTEXIT-Nearest_Exit) | NEARESTEXIT | PYTH 3 | N/A |
