@@ -138,3 +138,4 @@
 | [Nearest Exit](./NEARESTEXIT-Nearest_Exit) | NEARESTEXIT | PYTH 3 | N/A |
 | [Reverse The Number](./FLOW007-Reverse_The_Number) | FLOW007 | PYTH 3 | N/A |
 | [Sasta Shark Tank](./SST-Sasta_Shark_Tank) | SST | PYTH 3 | N/A |
+| [Good Program](./NIBBLE-Good_Program) | NIBBLE | PYTH 3 | N/A |
