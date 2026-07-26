@@ -1,0 +1,13 @@
+# cook your dish here
+import sys
+def solve():
+    time_spend = Y // 2
+    remainig_time = X - Y  
+    total_time = time_spend + remainig_time
+    print(total_time)
+if __name__ == "__main__":
+    try:
+        X,Y = map(int, input().split())
+        solve()
+    except(EOFError, ValueError):
+        pass
