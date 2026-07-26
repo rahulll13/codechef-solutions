@@ -144,3 +144,4 @@
 | [Minimum Cars required](./MINCARS-Minimum_Cars_required) | MINCARS | PYTH 3 | N/A |
 | [Test Score](./CHEFSCORE-Test_Score) | CHEFSCORE | PYTH 3 | N/A |
 | [Jenga Night](./JENGA-Jenga_Night) | JENGA | PYTH 3 | N/A |
+| [Bus Seat Numbering](./SEATNUMBER-Bus_Seat_Numbering) | SEATNUMBER | PYTH 3 | N/A |
