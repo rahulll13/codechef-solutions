@@ -141,3 +141,4 @@
 | [Good Program](./NIBBLE-Good_Program) | NIBBLE | PYTH 3 | N/A |
 | [Qualify the round](./QUALIFY-Qualify_the_round) | QUALIFY | PYTH 3 | N/A |
 | [Elections in Chefland](./ELECTN-Elections_in_Chefland) | ELECTN | PYTH 3 | N/A |
+| [Minimum Cars required](./MINCARS-Minimum_Cars_required) | MINCARS | PYTH 3 | N/A |
