@@ -1,0 +1,21 @@
+# cook your dish here
+import sys
+def solve():
+    N = int(input())
+    
+    if N >= 1 and N <=10:
+        print("LOWER DOUBLE")
+    elif N >= 11 and N <= 15:
+        print("LOWER SINGLE")
+    elif N >= 16 and N <= 25:
+        print("UPPER DOUBLE")
+    else:
+        print("UPPER SINGLE")
+        
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
