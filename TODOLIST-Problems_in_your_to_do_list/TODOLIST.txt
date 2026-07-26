@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    # N -> No. of problems chef has added
+    ## Diffuculties_range_problems -> list of various problems chef has added
+    N = int(input())
+    Diffuculties_range_problems = list(map(int, input().split()))
+    Questions_to_remove = 0
+    for D in Diffuculties_range_problems:
+        if D >= 1000:
+            Questions_to_remove += 1 
+    print(Questions_to_remove)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except (EOFError, ValueError):
+        pass
