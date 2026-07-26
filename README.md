@@ -137,3 +137,4 @@
 | [Air Conditioner Temperature](./ACTEMP-Air_Conditioner_Temperature) | ACTEMP | PYTH 3 | N/A |
 | [Nearest Exit](./NEARESTEXIT-Nearest_Exit) | NEARESTEXIT | PYTH 3 | N/A |
 | [Reverse The Number](./FLOW007-Reverse_The_Number) | FLOW007 | PYTH 3 | N/A |
+| [Sasta Shark Tank](./SST-Sasta_Shark_Tank) | SST | PYTH 3 | N/A |
