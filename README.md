@@ -140,3 +140,4 @@
 | [Sasta Shark Tank](./SST-Sasta_Shark_Tank) | SST | PYTH 3 | N/A |
 | [Good Program](./NIBBLE-Good_Program) | NIBBLE | PYTH 3 | N/A |
 | [Qualify the round](./QUALIFY-Qualify_the_round) | QUALIFY | PYTH 3 | N/A |
+| [Elections in Chefland](./ELECTN-Elections_in_Chefland) | ELECTN | PYTH 3 | N/A |
