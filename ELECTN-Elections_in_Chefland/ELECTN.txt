@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    N,X = map(int, input().split())
+    Ages = list(map(int, input().split()))
+    
+    Count = 0
+    for A in Ages:
+        if A >= X:
+            Count += 1
+    print(Count)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
