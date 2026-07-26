@@ -146,3 +146,4 @@
 | [Jenga Night](./JENGA-Jenga_Night) | JENGA | PYTH 3 | N/A |
 | [Bus Seat Numbering](./SEATNUMBER-Bus_Seat_Numbering) | SEATNUMBER | PYTH 3 | N/A |
 | [Discus Throw](./DISCUS-Discus_Throw) | DISCUS | PYTH 3 | N/A |
+| [Maximise the Tastiness](./MAXTASTE-Maximise_the_Tastiness) | MAXTASTE | PYTH 3 | N/A |
