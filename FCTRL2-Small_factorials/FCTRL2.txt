@@ -1,0 +1,13 @@
+# cook your dish here
+import  sys, math
+def solve():
+    N = int(input())
+    fact = math.factorial(N)
+    print(fact)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
