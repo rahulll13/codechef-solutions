@@ -148,3 +148,4 @@
 | [Discus Throw](./DISCUS-Discus_Throw) | DISCUS | PYTH 3 | N/A |
 | [Maximise the Tastiness](./MAXTASTE-Maximise_the_Tastiness) | MAXTASTE | PYTH 3 | N/A |
 | [Watching Movies at 2x](./MOVIE2X-Watching_Movies_at_2x) | MOVIE2X | PYTH 3 | N/A |
+| [Police and Thief](./POLTHIEF-Police_and_Thief) | POLTHIEF | PYTH 3 | N/A |
