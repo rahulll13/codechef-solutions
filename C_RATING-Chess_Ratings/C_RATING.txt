@@ -1,0 +1,18 @@
+# cook your dish here
+import sys
+def solve():
+    X,Y = map(int, input().split())
+    # Calculate the difference needed
+    diff = Y - X
+    # Using integer arithmetic for ceiling division: ceil(diff / 8)
+    # Formula: (diff + 8 - 1) // 8
+    ans = (diff + 7) // 8
+    
+    print(ans)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
