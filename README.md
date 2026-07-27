@@ -154,3 +154,4 @@
 | [Finding Shoes](./FINDSHOES-Finding_Shoes) | FINDSHOES | PYTH 3 | N/A |
 | [Small factorials](./FCTRL2-Small_factorials) | FCTRL2 | PYTH 3 | N/A |
 | [Mario and Transformation](./TRANSFORM-Mario_and_Transformation) | TRANSFORM | PYTH 3 | N/A |
+| [Mario and Bullet](./BULLET-Mario_and_Bullet) | BULLET | PYTH 3 | N/A |
