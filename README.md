@@ -152,3 +152,4 @@
 | [Flip the cards](./FLIPCARDS-Flip_the_cards) | FLIPCARDS | PYTH 3 | N/A |
 | [Bath in Winters](./BATH-Bath_in_Winters) | BATH | PYTH 3 | N/A |
 | [Finding Shoes](./FINDSHOES-Finding_Shoes) | FINDSHOES | PYTH 3 | N/A |
+| [Small factorials](./FCTRL2-Small_factorials) | FCTRL2 | PYTH 3 | N/A |
