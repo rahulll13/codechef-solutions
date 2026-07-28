@@ -164,3 +164,4 @@
 | [Blackjack](./BLACKJACK-Blackjack) | BLACKJACK | PYTH 3 | N/A |
 | [Fill Candies](./FILLCANDIES-Fill_Candies) | FILLCANDIES | PYTH 3 | N/A |
 | [X Jumps](./XJUMP-X_Jumps) | XJUMP | PYTH 3 | N/A |
+| [Chessboard Distance](./CHESSDIST-Chessboard_Distance) | CHESSDIST | PYTH 3 | N/A |
