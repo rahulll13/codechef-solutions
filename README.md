@@ -162,3 +162,4 @@
 | [Finding Square Roots](./FSQRT-Finding_Square_Roots) | FSQRT | PYTH 3 | N/A |
 | [The Last Levels](./LASTLEVELS-The_Last_Levels) | LASTLEVELS | PYTH 3 | N/A |
 | [Blackjack](./BLACKJACK-Blackjack) | BLACKJACK | PYTH 3 | N/A |
+| [Fill Candies](./FILLCANDIES-Fill_Candies) | FILLCANDIES | PYTH 3 | N/A |
