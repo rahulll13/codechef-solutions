@@ -1,0 +1,23 @@
+# cook your dish here
+import sys
+def solve():
+    X,Y,Z = map(int, input().split())
+    
+    # Total time spent playing the levels
+    total_time = X * Y
+    
+    # Calculate the number of breaks using the formula (X - 1) // 3
+    breaks = (X - 1) // 3 if X > 0 else 0
+    
+    # Add the total break time to the game time
+    total_time += breaks * Z
+    
+    print(total_time)
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
