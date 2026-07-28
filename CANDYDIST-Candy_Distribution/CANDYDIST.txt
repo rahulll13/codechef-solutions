@@ -1,0 +1,17 @@
+# cook your dish here
+import sys
+def solve():
+    N,M = map(int, input().split())
+    
+    if N % M == 0 and (N // M) % 2 == 0:
+        print("YES")
+    else:
+        print("NO")
+        
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
