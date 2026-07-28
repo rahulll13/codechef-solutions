@@ -157,3 +157,4 @@
 | [Mario and Bullet](./BULLET-Mario_and_Bullet) | BULLET | PYTH 3 | N/A |
 | [Chess Ratings](./C_RATING-Chess_Ratings) | C_RATING | PYTH 3 | N/A |
 | [Complementary Strand in a DNA](./DNASTRAND-Complementary_Strand_in_a_DNA) | DNASTRAND | PYTH 3 | N/A |
+| [Chef and Water Bottles](./CHEFBOTTLE-Chef_and_Water_Bottles) | CHEFBOTTLE | PYTH 3 | N/A |
