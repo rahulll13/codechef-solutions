@@ -1,0 +1,14 @@
+# cook your dish here
+import sys, math
+def solve():
+    N = int(input())
+    
+    ans = int(math.sqrt(N))
+    print(ans)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
