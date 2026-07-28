@@ -1,0 +1,18 @@
+# cook your dish here
+import sys
+def solve():
+    A,B = map(int, input().split())
+    
+    C = 21 - (A + B)
+    
+    if C >= 1 and C <= 10:
+        print(C)
+    else:
+        print("-1")
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
