@@ -168,3 +168,4 @@
 | [Valentine is Coming](./VALENTINE-Valentine_is_Coming) | VALENTINE | PYTH 3 | N/A |
 | [It is My Serve](./MYSERVE-It_is_My_Serve) | MYSERVE | PYTH 3 | N/A |
 | [Water Mixing](./WTRMIXING-Water_Mixing) | WTRMIXING | PYTH 3 | N/A |
+| [Weights](./WGHTS-Weights) | WGHTS | PYTH 3 | N/A |
