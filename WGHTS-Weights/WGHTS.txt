@@ -1,0 +1,28 @@
+# cook your dish here
+import sys
+def solve():
+    W,X,Y,Z = map(int, input().split())
+    
+    if W == X+Y+Z:
+        print("YES")
+    elif W == X:
+        print("YES")
+    elif W == Y:
+        print("YES")
+    elif W == Z:
+        print("YES")
+    elif W == X + Y:
+        print("YES")
+    elif W == X + Z:
+        print("YES")
+    elif W == Y + Z:
+        print("YES")
+    else:
+        print("NO")
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
