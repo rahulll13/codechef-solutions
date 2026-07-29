@@ -170,3 +170,4 @@
 | [Water Mixing](./WTRMIXING-Water_Mixing) | WTRMIXING | PYTH 3 | N/A |
 | [Weights](./WGHTS-Weights) | WGHTS | PYTH 3 | N/A |
 | [Chef and his Apps](./CHEFAPPS-Chef_and_his_Apps) | CHEFAPPS | PYTH 3 | N/A |
+| [Chef Eren](./CHEFEREN-Chef_Eren) | CHEFEREN | PYTH 3 | N/A |
