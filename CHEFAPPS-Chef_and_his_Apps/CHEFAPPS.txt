@@ -1,0 +1,25 @@
+# cook your dish here
+import sys
+def solve():
+    
+    S,X,Y,Z = map(int, input().split())
+    
+    free_space = S - (X + Y)
+    
+    if free_space >= Z:
+        print("0") ## No need to delete the apps
+        
+    elif free_space + max(X,Y) >= Z:
+        print("1")
+    
+    else:
+        print("2")
+        
+        
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
