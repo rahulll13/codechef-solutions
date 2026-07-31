@@ -1,0 +1,17 @@
+# cook your dish here
+def solve():
+    X,Y,D = map(int, input().split())
+    
+    ## Core Logic Starts here
+    if abs(X - Y) <= D:
+        print("YES")
+    else:
+        print("NO")
+        
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
