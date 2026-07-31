@@ -173,3 +173,4 @@
 | [Chef Eren](./CHEFEREN-Chef_Eren) | CHEFEREN | PYTH 3 | N/A |
 | [Minimum number of coins](./MINCOINS-Minimum_number_of_coins) | MINCOINS | PYTH 3 | N/A |
 | [Airlines](./SPCP2-Airlines) | SPCP2 | PYTH 3 | N/A |
+| [Self Defence Training](./SELFDEF-Self_Defence_Training) | SELFDEF | PYTH 3 | N/A |
