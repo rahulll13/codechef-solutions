@@ -175,3 +175,4 @@
 | [Airlines](./SPCP2-Airlines) | SPCP2 | PYTH 3 | N/A |
 | [Self Defence Training](./SELFDEF-Self_Defence_Training) | SELFDEF | PYTH 3 | N/A |
 | [Cup Finals](./CRICUP-Cup_Finals) | CRICUP | PYTH 3 | N/A |
+| [Too many Floors](./FLOORS-Too_many_Floors) | FLOORS | PYTH 3 | N/A |
