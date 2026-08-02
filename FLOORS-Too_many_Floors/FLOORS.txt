@@ -1,0 +1,14 @@
+# cook your dish here
+import sys,math
+def solve():
+    X,Y = map(int, input().split())
+    
+    print(abs(math.ceil((Y - 1) // 10 ) - math.ceil((X - 1) // 10)))
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
