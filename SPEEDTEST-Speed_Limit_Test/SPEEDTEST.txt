@@ -1,0 +1,19 @@
+# cook your dish here
+import sys,math
+def solve():
+    A,X,B,Y = map(int, input().split())
+    
+    if (A / X) > (B / Y):
+        print("ALICE")
+    elif (A/X) < (B/Y):
+        print("BOB")
+    else:
+        print("EQUAL")
+
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
