@@ -1,0 +1,22 @@
+# cook your dish here
+import sys
+def solve():
+    X,Y = map(int, input().split())
+     # Strategy 1: Attempt A first, then B
+    # A is solved at minute X, B is solved at minute (X + Y)
+    score_AB = (500 - (X * 2)) + (1000 - ((X + Y) * 4))
+    
+    # Strategy 2: Attempt B first, then A
+    # B is solved at minute Y, A is solved at minute (X + Y)
+    score_BA = (1000 - (Y * 4)) + (500 - ((X + Y) * 2))
+    
+    # The maximum score between the two strategies
+    print(max(score_AB, score_BA))
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
