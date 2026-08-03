@@ -177,3 +177,4 @@
 | [Cup Finals](./CRICUP-Cup_Finals) | CRICUP | PYTH 3 | N/A |
 | [Too many Floors](./FLOORS-Too_many_Floors) | FLOORS | PYTH 3 | N/A |
 | [Speed Limit Test](./SPEEDTEST-Speed_Limit_Test) | SPEEDTEST | PYTH 3 | N/A |
+| [Decrement OR Increment](./DECINC-Decrement_OR_Increment) | DECINC | PYTH 3 | N/A |
