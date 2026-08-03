@@ -178,3 +178,4 @@
 | [Too many Floors](./FLOORS-Too_many_Floors) | FLOORS | PYTH 3 | N/A |
 | [Speed Limit Test](./SPEEDTEST-Speed_Limit_Test) | SPEEDTEST | PYTH 3 | N/A |
 | [Decrement OR Increment](./DECINC-Decrement_OR_Increment) | DECINC | PYTH 3 | N/A |
+| [A or B](./AORB-A_or_B) | AORB | PYTH 3 | N/A |
