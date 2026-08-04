@@ -1,0 +1,12 @@
+# cook your dish here
+def solve():
+    N = int(input())
+    
+    print(N*(N - 1))
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
