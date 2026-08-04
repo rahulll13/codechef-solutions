@@ -1,0 +1,19 @@
+# cook your dish here
+import sys
+def solve():
+    N,X,P = map(int, input().split())
+    
+    incorrect_question = N - X 
+    
+    if (X * 3) - (incorrect_question * 1)  >= P:
+        print("PASS")
+    else:
+        print("FAIL")
+    
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
