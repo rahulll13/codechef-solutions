@@ -184,3 +184,4 @@
 | [Cyclic Quadrilateral](./CYCLICQD-Cyclic_Quadrilateral) | CYCLICQD | PYTH 3 | N/A |
 | [Too many items](./POLYBAGS-Too_many_items) | POLYBAGS | PYTH 3 | N/A |
 | [Chef Fantasy 11](./FIZZBUZZ2303-Chef_Fantasy_11) | FIZZBUZZ2303 | PYTH 3 | N/A |
+| [Building Race](./BUILDINGRACE-Building_Race) | BUILDINGRACE | PYTH 3 | N/A |
