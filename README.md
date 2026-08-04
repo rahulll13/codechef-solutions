@@ -180,3 +180,4 @@
 | [Decrement OR Increment](./DECINC-Decrement_OR_Increment) | DECINC | PYTH 3 | N/A |
 | [A or B](./AORB-A_or_B) | AORB | PYTH 3 | N/A |
 | [Second Largest](./FLOW017-Second_Largest) | FLOW017 | PYTH 3 | N/A |
+| [Pass or Fail](./PASSORFAIL-Pass_or_Fail) | PASSORFAIL | PYTH 3 | N/A |
