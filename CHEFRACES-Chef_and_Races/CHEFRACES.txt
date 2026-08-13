@@ -1,0 +1,12 @@
+def solve():
+    X, Y, A, B = map(int, input().split())
+    chef_races = {X, Y}
+    rival_races = {A, B}
+    gold_medals = len(chef_races - rival_races)
+    print(gold_medals)
+def main():
+    t = int(input())
+    for _ in range(t):
+        solve()
+if __name__ == '__main__':
+    main()
