@@ -1,0 +1,13 @@
+# cook your dish here
+def solve():
+    X,Y,R = map(int,input().split())
+    total_sticks = X + (R // 30)
+    plates = (total_sticks + Y - 1) // Y
+    print(plates)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError, ValueError):
+        pass
