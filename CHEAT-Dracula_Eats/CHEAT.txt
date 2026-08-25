@@ -1,0 +1,16 @@
+# cook your dish here
+def solve():
+    N = int(input())
+    cnt = 0
+    # Tuesdays occur on days 2, 9, 16, 23, etc.
+    # We can iterate from 2 up to N with a step of 7
+    for i in range(2,N + 1,7):
+        cnt += 1
+    print(cnt)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
