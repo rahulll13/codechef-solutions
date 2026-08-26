@@ -1,0 +1,14 @@
+# cook your dish here
+def solve():
+    H,X,Y = map(int, input().split())
+    remaining_health = H - Y ## After the special attack
+    normal_attacks = (remaining_health + X - 1) // X
+    total_attacks = 1 + normal_attacks ## 1 for special attack
+    print(total_attacks)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
