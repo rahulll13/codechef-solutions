@@ -1,0 +1,12 @@
+# cook your dish here
+def solve():
+    X,Y = map(int, input().split())
+    months = (Y - 1) // X
+    print(months)
+if __name__ == "__main__":
+    try:
+        T = int(input())
+        for _ in range(T):
+            solve()
+    except(EOFError,ValueError):
+        pass
