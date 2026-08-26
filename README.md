@@ -193,3 +193,4 @@
 | [Chef And Operators](./CHOPRT-Chef_And_Operators) | CHOPRT | PYTH 3 | N/A |
 | [Reach fast](./REACHFAST-Reach_fast) | REACHFAST | PYTH 3 | N/A |
 | [Single-use Attack](./SINGLEUSE-Single_use_Attack) | SINGLEUSE | PYTH 3 | N/A |
+| [The Cooler Dilemma 2](./WATERCOOLER2-The_Cooler_Dilemma_2) | WATERCOOLER2 | PYTH 3 | N/A |
