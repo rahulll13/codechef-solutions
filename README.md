@@ -192,3 +192,4 @@
 | [Dracula Eats](./CHEAT-Dracula_Eats) | CHEAT | PYTH 3 | N/A |
 | [Chef And Operators](./CHOPRT-Chef_And_Operators) | CHOPRT | PYTH 3 | N/A |
 | [Reach fast](./REACHFAST-Reach_fast) | REACHFAST | PYTH 3 | N/A |
+| [Single-use Attack](./SINGLEUSE-Single_use_Attack) | SINGLEUSE | PYTH 3 | N/A |
